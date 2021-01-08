@@ -40,7 +40,7 @@ def banner():
 \____/| .__/ \__,_|_| |_| |_|  \____/\__,_|_|_|
       | |                                      
       |_|                                      
-                '''+W+'Creator : Mr.Maykels\n\t\t  Mooded by : Rabbit')
+                '''+W+'Creator : Mr.Maykels\n\t\t    Mooded by : haluu')
                 
 def tiks(s):
 	for x in s + '\n':
