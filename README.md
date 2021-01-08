@@ -1,5 +1,4 @@
 # spam-call
-#spam-call
 
 $pkg update && pkg upgrade
 
